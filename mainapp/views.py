@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from django.http import HttpResponseRedirect
 
-# Creatoge your views here.
+
 
 def home(request):
 	return render(request, 'mainapp/index.html')
