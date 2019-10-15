@@ -25,7 +25,7 @@ SECRET_KEY = '11@jrr3eilbnj6-hvl&8!i6=dm^2p12spk&v4o#nq^qya1e@-v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['caritascommunityhospital.herokuapp.com']
 
 
 # Application definition
