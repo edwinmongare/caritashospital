@@ -37,8 +37,8 @@
 *,
 *::before,
 *::after {
-  overflow: scroll;
-  -webkit-overflow-scrolling: touch;
+/*  overflow: scroll;
+-webkit-overflow-scrolling: touch;*/
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
 
